@@ -76,7 +76,7 @@ Write a query to output the start and end dates of projects listed by the numbe
   </tbody>
 </table>
 
-Sample Output
+<strong>Sample Output</strong>
 ```
 2015-10-28 2015-10-29
 2015-10-30 2015-10-31
@@ -85,7 +85,7 @@ Sample Output
 
 ```
 
-Explanation
+<strong>Explanation</strong>
 
 The example describes following four projects:
 - Project 1: Tasks 1, 2 and 3 are completed on consecutive days, so these are part of the project. Thus start date of project is 2015-10-01 and end date is 2015-10-04, so it took 3 days to complete the project.
