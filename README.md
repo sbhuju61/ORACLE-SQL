@@ -1,6 +1,10 @@
 # ORACLE-SQL
-SQL queries written in Oracle
+## SQL queries written in Oracle  
 
-## Every SQL query has a accompanying README file that has the SQL problem.
+&nbsp;
+
+*SQL-ANSWERS*- contains sql answers  
+*SQL-QUESTIONS*- contains sql questions  
+
 1. SQL Project Planning
 2. Highest Bidder per Auction
